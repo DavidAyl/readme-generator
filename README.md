@@ -1,8 +1,8 @@
 # readme-generator
 
-Your Name here
+David Aylward
 
-Link To your Project
+https://davidayl.github.io/readme-generator/
 
 
 
@@ -24,20 +24,20 @@ Link To your Project
 
 ## About
 
-Your Text goes here
+This project is made to help people create READme files easily by just answering a handful of prompts in their terminal.  This READme was made from this application, this is achieved by using javascript and node modules.
 
 ## Installation
 
-Your Text goes here
+To install the necessary software to run this program type npm install in your console.
 
 ## Usage
 
-Your text goes here
+This project is used for creators to make a simple but easy to follow READme.
 
 ## Tests
 
-Your text goes here
+![testing the product](./test.gif)
 
 ## Contact Me
 
-your text here
+fakemail@david.com

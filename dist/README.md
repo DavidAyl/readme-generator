@@ -1,10 +1,10 @@
-# xcgdsf
+# ReadMe gen
 
-sdfg
+David Aylward
         
-23
+email
         
-[License: Apache](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: BSD](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
         
 ## Table of Contents
         
@@ -24,24 +24,24 @@ sdfg
         
 ## About
         
-sdfg
+This project will create readmes
         
 ## Installation
         
-sdfg
+to install do npm install
         
  ## Usage
         
-sdfg
+Use this project to create read mes
 
 ## Contribution
 
-dfg
+anthony
         
 ## Tests
         
-dfg34
+To test run node index
         
 ## Questions
         
-3
+github.davidayl.readme.com
